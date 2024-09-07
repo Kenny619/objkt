@@ -1,3 +1,6 @@
+# regulars
+.DS_Store
+biome.json
 # Logs
 logs
 *.log
